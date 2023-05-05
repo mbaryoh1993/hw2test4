@@ -101,6 +101,102 @@ new_movie_3["rated"] = "PG-13"
 new_movie_3["studio"] = 1
 new_movie_3.save
 
+new_role = Role.new
+new_role["title"] = "Batman Begins"
+new_role["actor"] = "Christian Bale"
+new_role["character_name"] = "Bruce Wayne"
+new_role.
+
+new_role_2 = Role.new
+new_role_2["title"] = "Batman Begins"
+new_role_2["actor"] = "Michael Cain"
+new_role_2["character_name"] = "Alfred"
+new_role_2.save
+
+new_role_3 = Role.new
+new_role_3["title"] = "Batman Begins"
+new_role_3["actor"] = "Liam Neeson"
+new_role_3["character_name"] = "Ra's Al Ghul"
+new_role_3.save
+
+new_role_4 = Role.new
+new_role_4["title"] = "Batman Begins"
+new_role_4["actor"] = "Katie Holmes"
+new_role_4["character_name"] = "Rachel Dawes"
+new_role_4.save
+
+new_role_5 = Role.new
+new_role_5["title"] = "Batman Begins"
+new_role_5["actor"] = "Gary Oldman"
+new_role_5["character_name"] = "Commissioner Gordon"
+new_role_5.save
+
+new_role_6 = Role.new
+new_role_6["title"] = "The Dark Knight"
+new_role_6["actor"] = "Christian Bale"
+new_role_6["character_name"] = "Bruce Wayne"
+new_role_6.save
+
+new_role_7 = Role.new
+new_role_7["title"] = "The Dark Knight"
+new_role_7["actor"] = "Heath Ledger"
+new_role_7["character_name"] = "Joker"
+new_role_7.save
+
+new_role_8 = Role.new
+new_role_8["title"] = "The Dark Knight"
+new_role_8["actor"] = "Aaron Eckhart"
+new_role_8["character_name"] = "Harvey Dent"
+new_role_8.save
+
+new_role_9 = Role.new
+new_role_9["title"] = "The Dark Knight"
+new_role_9["actor"] = "Michael Caine"
+new_role_9["character_name"] = "Alfred"
+new_role_9.save
+
+new_role_10 = Role.new
+new_role_10["title"] = "The Dark Knight"
+new_role_10["actor"] = "Maggie Gyllenhaal"
+new_role_10["character_name"] = "Rachel Dawes"
+new_role_10.save
+
+new_role_11 = Role.new
+new_role_11["title"] = "The Dark Knight Rises"
+new_role_11["actor"] = "Christian Bale"
+new_role_11["character_name"] = "Bruce Wayne"
+new_role_11.save
+
+new_role_12 = Role.new
+new_role_12["title"] = "The Dark Knight Rises"
+new_role_12["actor"] = "Gary Oldman"
+new_role_12["character_name"] = "Commissioner Gordon"
+new_role_12.save
+
+new_role_13 = Role.new
+new_role_13["title"] = "The Dark Knight Rises"
+new_role_13["actor"] = "Tom Hardy"
+new_role_13["character_name"] = "Bane"
+new_role_13.save
+
+new_role_14 = Role.new
+new_role_14["title"] = "The Dark Knight Rises"
+new_role_14["actor"] = "Joseph Gordon-Levitt"
+new_role_14["character_name"] = "John Blake"
+new_role.save
+
+new_role_15 = Role.new
+new_role_15["title"] = "The Dark Knight Rises"
+new_role_15["actor"] = "Anne Hathaway"
+new_role_15["character_name"] = "Selina Kyle"
+new_role_15.save
+
+new_role = Role.new
+new_role["title"] = "Batman Begins"
+new_role["actor"] = "Christian Bale"
+new_role["character_name"] = "Bruce Wayne"
+new_role.save
+
 
 # Prints a header for the movies output
 puts "Movies"
