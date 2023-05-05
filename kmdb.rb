@@ -197,7 +197,6 @@ new_role["actor"] = "Christian Bale"
 new_role["character_name"] = "Bruce Wayne"
 new_role.save
 
-
 # Prints a header for the movies output
 puts "Movies"
 puts "======"
@@ -214,3 +213,5 @@ puts ""
 
 # Query the cast data and loop through the results to display the cast output for each movie.
 # TODO!
+
+
